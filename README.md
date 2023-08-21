@@ -1,2 +1,2 @@
 # smt-2
-DLL BOI
+My second semester programming assignment
